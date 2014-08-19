@@ -68,6 +68,13 @@ shouldbee run
 [macdown.png]: https://github.com/shouldbee/shouldbee/raw/master/images/macdown.png
 
 
+### 4. テスト結果をチームでシェアしよう
+
+ShouldBeeのテストレポートはMarkdown形式なので、チームで簡単にシェアすることができます！
+
+* Redmineや[GitHubのissues]で問題を報告
+* [Qiita:Team]で今日のテスト結果をシェア
+
 ## 続き
 
 * Shouldbeefileの書き方について知りたい → [Shouldbeefile]
@@ -75,3 +82,5 @@ shouldbee run
 
 [Shouldbeefile]: https://github.com/shouldbee/shouldbee/blob/master/shouldbeefile.md
 [Steps]: https://github.com/shouldbee/shouldbee/blob/master/steps.md
+[Qiita:Team]: https://teams.qiita.com/
+[GitHubのissues]: https://github.com/
