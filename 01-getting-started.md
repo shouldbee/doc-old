@@ -58,11 +58,12 @@ shouldbee run
 
 エディタ | .
 :-------:|----
-[Mou]<br>(無料) | ![mou.png]
 [MacDown]<br>(無料) | ![macdown.png]
+[Mou]<br>(無料) | ![mou.png]
 
 [Mou]: http://mouapp.com/ 
 [MacDown]: http://macdown.uranusjr.com/
 
-
+[mou.png]: https://github.com/shouldbee/shouldbee/raw/master/images/mou.png
+[macdown.png]: https://github.com/shouldbee/shouldbee/raw/master/images/macdown.png
 
