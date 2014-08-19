@@ -67,3 +67,11 @@ shouldbee run
 [mou.png]: https://github.com/shouldbee/shouldbee/raw/master/images/mou.png
 [macdown.png]: https://github.com/shouldbee/shouldbee/raw/master/images/macdown.png
 
+
+## 続き
+
+* Shouldbeefileの書き方について知りたい → [Shouldbeefile]
+* 利用可能なステップについて知りたい → [Steps]
+
+[Shouldbeefile]: https://github.com/shouldbee/shouldbee/blob/master/shouldbeefile.md
+[Steps]: https://github.com/shouldbee/shouldbee/blob/master/steps.md
