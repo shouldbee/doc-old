@@ -59,3 +59,9 @@ Shouldbeefileは3つのパートからなります。
 
 
 [shouldbeefile-format.png]: https://github.com/shouldbee/shouldbee/raw/master/images/shouldbeefile-format.png
+
+## 続き
+
+* 利用可能なステップについて知りたい → [Steps]
+
+[Steps]: https://github.com/shouldbee/shouldbee/blob/master/steps.md

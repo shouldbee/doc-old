@@ -87,3 +87,9 @@ ShouldBeeのステップは文字をエスケープする記法がありませ�
 ```
 画面に『注文データ「12345」を本当に削除しますか？』と表示されていること
 ```
+
+## 続き
+
+* Shouldbeefileの書き方について知りたい → [Shouldbeefile]
+
+[Shouldbeefile]: https://github.com/shouldbee/shouldbee/blob/master/shouldbeefile.md
