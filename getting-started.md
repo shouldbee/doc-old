@@ -22,7 +22,7 @@ chmod +x shouldbee
 
 ## ログイン情報を設定しよう
 
-ShouldBeeでテストを実行する際に、ShouldBeeのユーザ名・パスワードによる認証が必要になります。~/.bashrc, ~/.zshrcなどに環境変数 `SHOULDBEE_USERNAME`、`SHOULDBEE_PASSWORD`を定義しておいてください。
+ShouldBeeでテストを実行する際に、ShouldBeeのユーザ名・パスワードによる認証が必要になります。~/.bashrc, ~/.zshrcなどに環境変数 `SHOULDBEE_USERNAME`、`SHOULDBEE_PASSWORD`を定義しておいてください。Windowsは、[Windows7で環境変数を設定する方法]をご覧ください。
 
 ```bash
 export SHOULDBEE_USERNAME="your_username"
@@ -82,5 +82,6 @@ ShouldBeeのテストレポートはMarkdown形式なので、チームで簡単
 
 [Shouldbeefile]: https://github.com/shouldbee/shouldbee/blob/master/shouldbeefile.md
 [Steps]: https://github.com/shouldbee/shouldbee/blob/master/steps.md
+[Windows7で環境変数を設定する方法]: https://github.com/shouldbee/shouldbee/blob/master/windows-how-to-set-environment-variables.md
 [Qiita:Team]: https://teams.qiita.com/
 [GitHubのissues]: https://github.com/
